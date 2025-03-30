@@ -55,7 +55,7 @@ Designed a **Natural Language Processing (NLP) parser** using **Context-Free Gra
 Explored the **BERT Transformer Model**, implementing a masked language model and generating **attention heatmaps** for different layers.
 
 ---
-These projects showcase my understanding of AI concepts and hands-on implementation of key techniques. 🚀 Check out the code and let me know your thoughts!
+These projects showcase my understanding of AI concepts and hands-on implementation of key techniques.  Check out the code and let me know your thoughts!
 
 
 
